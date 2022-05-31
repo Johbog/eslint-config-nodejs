@@ -20,7 +20,10 @@
 				"SwitchCase": 1
 			}
 		],
-		"strict": 0,
+    "strict": [
+      "error",
+      "safe"
+    ],
 		"quotes": [
 			"error",
 			"single"
