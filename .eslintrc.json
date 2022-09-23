@@ -12,6 +12,12 @@
 	"plugins": [
   ],
 	"rules": {
+		"no-undef": [
+			"error",
+			{
+				"typeof": true
+			}
+		],
 		"require-atomic-updates": 0,
 		"indent": [
 			"error",
