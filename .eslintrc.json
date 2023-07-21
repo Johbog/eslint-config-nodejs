@@ -92,7 +92,7 @@
 		"no-unused-vars": [
 			"warn",
 			{
-				"varsIgnorePattern": "^_"
+				"varsIgnorePattern": "^_$"
 			}
 		],
 		"no-alert": "error",
