@@ -1,3 +1,5 @@
+No longer maintained, use [garraflavatra/eslint-config-nodejs](https://github.com/garraflavatra/eslint-config-nodejs) instead.
+
 # eslint-config-node
 Eslint config for node
 
