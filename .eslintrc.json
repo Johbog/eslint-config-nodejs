@@ -18,7 +18,7 @@
 				"typeof": true
 			}
 		],
-		"require-atomic-updates": 0,
+		"require-atomic-updates": "off",
 		"indent": [
 			"error",
 			2,
@@ -35,7 +35,7 @@
 			"single"
 		],
 		"semi": [
-			"warn",
+			"error",
 			"always"
 		],
 		"accessor-pairs": "error",
@@ -80,7 +80,7 @@
 		"jsx-quotes": "error",
 		"keyword-spacing": "error",
 		"key-spacing": [
-      "warn",
+      "error",
 			{
 				"beforeColon": false
 			}
